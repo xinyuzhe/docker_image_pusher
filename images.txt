@@ -9,3 +9,4 @@ instantbox/instantbox:latest
 instantbox/instantbox-frontend:latest
 instantbox/cron:latest
 instantbox/ubuntu:20.04
+nginx:1.26.1
