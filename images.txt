@@ -11,3 +11,4 @@ instantbox/cron:latest
 instantbox/ubuntu:20.04
 nginx:1.26.1
 rook/ceph:v1.14.6
+grafana/grafana:9.5.3
