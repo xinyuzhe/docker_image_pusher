@@ -12,3 +12,4 @@ instantbox/ubuntu:20.04
 nginx:1.26.1
 rook/ceph:v1.14.6
 grafana/grafana:9.5.3
+jimmidyson/configmap-reload:v0.5.0
