@@ -16,3 +16,11 @@ jimmidyson/configmap-reload:v0.5.0
 easzlab/kubeasz:3.6.5
 easzlab/kubeasz-ext-bin:1.11.1
 calico/cni:v3.28.2
+calico/kube-controllers:v3.28.2
+calico/node:v3.28.2
+coredns/coredns:1.11.3
+easzlab/k8s-dns-node-cache:1.23.1
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
+easzlab/metrics-server:v0.7.2
+easzlab/pause:3.10
