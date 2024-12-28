@@ -14,4 +14,4 @@ rook/ceph:v1.14.6
 grafana/grafana:9.5.3
 jimmidyson/configmap-reload:v0.5.0
 easzlab/kubeasz:3.6.5
-easzlab/kubeasz-ext-bin
+easzlab/kubeasz-ext-bin:1.11.1
