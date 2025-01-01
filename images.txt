@@ -24,3 +24,4 @@ kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
 easzlab/metrics-server:v0.7.2
 easzlab/pause:3.10
+rancher/rancher:v2.6.9
